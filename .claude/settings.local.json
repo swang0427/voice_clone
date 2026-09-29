@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Context7__query-docs",
+      "Bash(uv --version)",
+      "Bash(conda --version)",
+      "Bash(pip --version)",
+      "Bash(git --version)"
+    ]
+  }
+}
